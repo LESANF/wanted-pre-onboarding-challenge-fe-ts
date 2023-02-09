@@ -153,4 +153,4 @@ Item {
 <br>
 <hr>
 
-## 📍 [JSDoc](https://lesanf.github.io/wanted-pre-onboarding-challenge-fe-ts)
+## 📍 [JSDoc](https://lesanf.github.io/wanted-pre-onboarding-challenge-fe-ts/global.html#createList)
