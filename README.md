@@ -149,3 +149,8 @@ Item {
 ```
 
 </details>
+
+<br>
+<hr>
+
+## 📍 [JSDoc](https://lesanf.github.io/wanted-pre-onboarding-challenge-fe-ts)
