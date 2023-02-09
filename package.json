@@ -1,11 +1,14 @@
 {
     "name": "wanted-pre-onboarding",
+    "homepage": "https://lesanf.github.io/wanted-pre-onboarding-challenge-fe-ts",
     "version": "1.0.0",
     "description": "",
     "main": "index.ts",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "doc": "jsdoc -c jsdoc.config.json"
+        "doc": "jsdoc -c jsdoc.config.json",
+        "predeploy": "npm run doc",
+        "deploy": "gh-pages -d docs"
     },
     "keywords": [],
     "author": "",
@@ -15,6 +18,7 @@
         "typescript": "^4.9.5"
     },
     "dependencies": {
+        "gh-pages": "^5.0.0",
         "tui-jsdoc-template": "^1.2.2"
     }
 }
